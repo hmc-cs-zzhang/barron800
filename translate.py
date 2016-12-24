@@ -13,7 +13,7 @@ app_id = 'dc09c612'
 app_key = '4db4f918c6095d04d49ce8efbac67ca0'
 language = 'en'
 
-with open("barron.txt", 'r') as fd:
+with open("barron-raw.txt", 'r') as fd:
     word = None
     for line in fd:
         line = re.sub(r'\\n', '', line)
@@ -32,7 +32,7 @@ while len(sorted_words) > 0:
     fo = codecs.open("List " + str(i / 50 + 1) + ".md", "a", "utf-8")
 
     w = sorted_words[0]
-    fo.write("### ")
+    fo.write("## ")
     fo.write(w.decode('utf-8'))
 
     # find english translation
