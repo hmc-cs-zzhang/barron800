@@ -1,4 +1,4 @@
-### steadfast
+## steadfast
 
 #### English:
   - resolutely or dutifully firm and unwavering.
@@ -6,7 +6,7 @@
 #### Chinese:
   - adj.坚定的
 
-### stoic
+## stoic
 
 #### English:
   - of or belonging to the Stoics or their school of philosophy.
@@ -16,7 +16,7 @@
 #### Chinese:
   - n. 高度自制者;坚忍克己之人
 
-### strident
+## strident
 
 #### English:
   - (of a sound) loud and harsh; grating.
@@ -25,7 +25,7 @@
 #### Chinese:
   - adj.轧轧响的, 刺耳的, 尖锐的
 
-### strut
+## strut
 
 #### English:
   - walk with a stiff, erect, and apparently arrogant or conceited gait.
@@ -38,7 +38,7 @@
   - vi.大摇大摆地走, 肿胀
   - vt.支撑, 炫耀
 
-### stupefy
+## stupefy
 
 #### English:
   - make (someone) unable to think or feel properly.
@@ -46,7 +46,7 @@
 #### Chinese:
   - v.麻木
 
-### subdued
+## subdued
 
 #### English:
   - (of a person or their manner) quiet and rather reflective or depressed.
@@ -55,7 +55,7 @@
 #### Chinese:
   - adj.屈服的, 被抑制的, 柔和的, 减弱的
 
-### submissive
+## submissive
 
 #### English:
   - ready to conform to the authority or will of others; meekly obedient or passive.
@@ -63,7 +63,7 @@
 #### Chinese:
   - adj.顺从的
 
-### subside
+## subside
 
 #### English:
   - become less intense, violent, or severe.
@@ -72,7 +72,7 @@
 #### Chinese:
   - v.下沉, 沉淀, 平息, 减退, 衰减
 
-### substantial
+## substantial
 
 #### English:
   - of considerable importance, size, or worth.
@@ -82,7 +82,7 @@
 #### Chinese:
   - adj.坚固的, 实质的, 真实的, 充实的
 
-### substantiate
+## substantiate
 
 #### English:
   - provide evidence to support or prove the truth of.
@@ -90,7 +90,7 @@
 #### Chinese:
   - vt.使实体化, 证实
 
-### subtlety
+## subtlety
 
 #### English:
   - the quality or state of being subtle.
@@ -98,7 +98,7 @@
 #### Chinese:
   - n.稀薄, 微妙, 精明
 
-### succinct
+## succinct
 
 #### English:
   - (especially of something written or spoken) briefly and clearly expressed.
@@ -106,7 +106,7 @@
 #### Chinese:
   - adj.简洁的, 紧身的, 压缩在小范围内的
 
-### supercilious
+## supercilious
 
 #### English:
   - behaving or looking as though one thinks one is superior to others.
@@ -114,7 +114,7 @@
 #### Chinese:
   - adj.自大的, 傲慢的, 目空一切的
 
-### superficial
+## superficial
 
 #### English:
   - existing or occurring at or on the surface.
@@ -125,7 +125,7 @@
 #### Chinese:
   - adj.表面的, 肤浅的, 浅薄的
 
-### superfluous
+## superfluous
 
 #### English:
   - unnecessary, especially through being more than enough.
@@ -133,7 +133,7 @@
 #### Chinese:
   - adj.多余的, 过剩的, 过量的
 
-### suppress
+## suppress
 
 #### English:
   - forcibly put an end to.
@@ -141,7 +141,7 @@
 #### Chinese:
   - vt.镇压, 抑制, 查禁, 使止住
 
-### surmount
+## surmount
 
 #### English:
   - overcome (a difficulty or obstacle).
@@ -150,7 +150,7 @@
 #### Chinese:
   - vt.战胜, 超越, 克服, 在...顶上
 
-### surpass
+## surpass
 
 #### English:
   - exceed; be greater than.
@@ -158,7 +158,7 @@
 #### Chinese:
   - vt.超越, 胜过
 
-### surreptitious
+## surreptitious
 
 #### English:
   - kept secret, especially because it would not be approved of.
@@ -166,7 +166,7 @@
 #### Chinese:
   - adj.暗中的, 秘密的, 偷偷摸摸的
 
-### susceptible
+## susceptible
 
 #### English:
   - likely or liable to be influenced or harmed by a particular thing.
@@ -176,7 +176,7 @@
   - adj.易受影响的 , 易感动的 , 容许...的
   - n.(因缺乏免疫力而 )易得病的人
 
-### sustain
+## sustain
 
 #### English:
   - strengthen or support physically or mentally.
@@ -188,14 +188,15 @@
 #### Chinese:
   - vt.支撑, 撑住, 维持, 持续
 
-### swindler
+## swindle
 
 #### English:
+  - use deception to deprive (someone) of money or possessions.
 
 #### Chinese:
-  - n.骗子
+  - v.欺骗
 
-### sycophant
+## sycophant
 
 #### English:
   - a person who acts obsequiously towards someone important in order to gain advantage.
@@ -203,7 +204,7 @@
 #### Chinese:
   - n.拍马屁的人 , 谄媚者 , 奉承者 adj.拍马的, 奉承的
 
-### symmetry
+## symmetry
 
 #### English:
   - the quality of being made up of exactly similar parts facing each other or around an axis.
@@ -211,7 +212,7 @@
 #### Chinese:
   - n.对称, 匀称
 
-### taciturn
+## taciturn
 
 #### English:
   - (of a person) reserved or uncommunicative in speech; saying little.
@@ -219,7 +220,7 @@
 #### Chinese:
   - adj.沉默寡言的
 
-### taint
+## taint
 
 #### English:
   - a trace of a bad or undesirable substance or quality.
@@ -229,7 +230,7 @@
   - v.感染
   - n.污点
 
-### tangential
+## tangential
 
 #### English:
   - relating to or along a tangent.
@@ -238,7 +239,7 @@
 #### Chinese:
   - adj.切线的
 
-### tangible
+## tangible
 
 #### English:
   - perceptible by touch.
@@ -247,7 +248,7 @@
 #### Chinese:
   - adj.切实的
 
-### tantamount
+## tantamount
 
 #### English:
   - equivalent in seriousness to; virtually the same as.
@@ -255,7 +256,7 @@
 #### Chinese:
   - adj.等价
 
-### tedious
+## tedious
 
 #### English:
   - too long, slow, or dull; tiresome or monotonous.
@@ -263,7 +264,7 @@
 #### Chinese:
   - adj.单调乏味的 , 沉闷的 , 冗长乏味的
 
-### temper
+## temper
 
 #### English:
   - improve the hardness and elasticity of (steel or other metal) by reheating and then cooling it.
@@ -276,7 +277,7 @@
   - n.(钢等)韧度, 回火, 性情, 脾气 , 情绪 , 心情 , 调剂 , 趋向
   - v.(冶金)回火、锻炼, 调和, 调节
 
-### tenacity
+## tenacity
 
 #### English:
   - the quality or fact of being able to grip something firmly; grip.
@@ -284,7 +285,7 @@
 #### Chinese:
   - n.坚韧
 
-### tentative
+## tentative
 
 #### English:
   - not certain or fixed; provisional.
@@ -293,7 +294,7 @@
   - n.试验, 假设
   - adj.试验性的, 试探的, 尝试的, 暂定的
 
-### termination
+## termination
 
 #### English:
   - the action of terminating something or the fact of being terminated.
@@ -303,7 +304,7 @@
 #### Chinese:
   - n.终止
 
-### terse
+## terse
 
 #### English:
   - sparing in the use of words; abrupt.
@@ -311,7 +312,7 @@
 #### Chinese:
   - adj.简洁的, 扼要的
 
-### threadbare
+## threadbare
 
 #### English:
   - (of cloth, clothing, or soft furnishings) becoming thin and tattered with age.
@@ -319,7 +320,7 @@
 #### Chinese:
   - adj.穿破旧衣服的, 俗套的
 
-### thrive
+## thrive
 
 #### English:
   - (of a child, animal, or plant) grow or develop well or vigorously.
@@ -327,7 +328,7 @@
 #### Chinese:
   - v.兴旺 , 繁荣 , 茁壮成长 , 旺盛
 
-### tirade
+## tirade
 
 #### English:
   - a long, angry speech of criticism or accusation.
@@ -335,7 +336,7 @@
 #### Chinese:
   - n.长篇激烈的演说
 
-### torpor
+## torpor
 
 #### English:
   - a state of physical or mental inactivity; lethargy.
@@ -343,7 +344,7 @@
 #### Chinese:
   - n.迟钝, 无感觉, 不活泼
 
-### tractable
+## tractable
 
 #### English:
   - (of a person) easy to control or influence.
@@ -351,7 +352,7 @@
 #### Chinese:
   - adj.易驾驭的, 驯良的, 易管教的, 易处理的
 
-### transcendent
+## transcendent
 
 #### English:
   - beyond or above the range of normal or physical human experience.
@@ -360,7 +361,7 @@
 #### Chinese:
   - adj.卓越的, 出众的,[宗](神)超然的,[哲]先验的
 
-### transient
+## transient
 
 #### English:
   - lasting only for a short time; impermanent.
@@ -371,7 +372,7 @@
   - adj.短暂的, 瞬时的
   - n.瞬时现象
 
-### transparent
+## transparent
 
 #### English:
   - (of a material or article) allowing light to pass through so that objects behind can be distinctly seen.
@@ -382,7 +383,7 @@
 #### Chinese:
   - adj.透明的, 显然的, 明晰的
 
-### trepidation
+## trepidation
 
 #### English:
   - a feeling of fear or anxiety about something that may happen.
@@ -391,7 +392,7 @@
 #### Chinese:
   - n.颤抖
 
-### trifling
+## trifling
 
 #### English:
   - unimportant or trivial.
@@ -399,7 +400,7 @@
 #### Chinese:
   - adj.不重要的
 
-### trite
+## trite
 
 #### English:
   - (of a remark or idea) lacking originality or freshness; dull on account of overuse.
@@ -407,7 +408,7 @@
 #### Chinese:
   - adj.陈腐的
 
-### trivial
+## trivial
 
 #### English:
   - of little value or importance.
@@ -416,7 +417,7 @@
 #### Chinese:
   - adj.琐细的 , 价值不高的 , 微不足道的
 
-### turbulence
+## turbulence
 
 #### English:
   - violent or unsteady movement of air or water, or of some other fluid.
@@ -424,7 +425,7 @@
 #### Chinese:
   - n.骚乱, 动荡, (液体或气体的)紊乱
 
-### turmoil
+## turmoil
 
 #### English:
   - a state of great disturbance, confusion, or uncertainty.
@@ -432,7 +433,7 @@
 #### Chinese:
   - n.骚动, 混乱
 
-### tyranny
+## tyranny
 
 #### English:
   - cruel and oppressive government or rule.

@@ -1,4 +1,4 @@
-### abate
+## abate
 
 #### English:
   - (of something unpleasant or severe) become less intense or widespread.
@@ -7,7 +7,7 @@
   - vt.使(数量、程度等 )减少,减轻,除去,缓和,打折扣
   - vi.(数量、程度等)减少,减轻,失效,缓和, (法令等)被废除
 
-### aberrant
+## aberrant
 
 #### English:
   - departing from an accepted standard.
@@ -15,7 +15,7 @@
 #### Chinese:
   - adj.异常的
 
-### abrasive
+## abrasive
 
 #### English:
   - a substance used for grinding, polishing, or cleaning a hard surface.
@@ -26,7 +26,7 @@
   - n.研磨剂
   - adj.研磨的
 
-### abridge
+## abridge
 
 #### English:
   - shorten (a book, film, speech, etc.) without losing the sense.
@@ -35,7 +35,7 @@
 #### Chinese:
   - v.删节, 削减, 精简
 
-### absolute
+## absolute
 
 #### English:
   - not qualified or diminished in any way; total.
@@ -46,7 +46,7 @@
 #### Chinese:
   - adj.完全的, 绝对的
 
-### abstemious
+## abstemious
 
 #### English:
   - indulging only very moderately in something, especially food and drink.
@@ -54,7 +54,7 @@
 #### Chinese:
   - adj.有节制的, 节约的
 
-### abstract
+## abstract
 
 #### English:
   - consider something theoretically or separately from (something else).
@@ -70,7 +70,7 @@
   - adj.抽象的, 深奥的, 理论的
   - vt.摘要, 提炼, 抽象化
 
-### abstruse
+## abstruse
 
 #### English:
   - difficult to understand; obscure.
@@ -78,7 +78,7 @@
 #### Chinese:
   - adj.奥妙的, 深奥的
 
-### accessible
+## accessible
 
 #### English:
   - (of a place) able to be reached or entered.
@@ -87,7 +87,7 @@
 #### Chinese:
   - adj.易接近的 , 可到达的 , 易受影响的,可理解的
 
-### acclaim
+## acclaim
 
 #### English:
   - praise enthusiastically and publicly.
@@ -97,7 +97,7 @@
   - n.喝彩, 欢呼
   - v.欢呼, 称赞
 
-### accolade
+## accolade
 
 #### English:
   - an award or privilege granted as a special honour or as an acknowledgement of merit.
@@ -106,7 +106,7 @@
 #### Chinese:
   - n.赞美, 骑士爵位的授予 , 连谱号
 
-### acknowledge
+## acknowledge
 
 #### English:
   - accept or admit the existence or truth of.
@@ -116,7 +116,7 @@
 #### Chinese:
   - vt.承认, 答谢, 报偿
 
-### acquiesce
+## acquiesce
 
 #### English:
   - accept something reluctantly but without protest.
@@ -124,7 +124,7 @@
 #### Chinese:
   - vi.默许, 勉强同意
 
-### acrimonious
+## acrimonious
 
 #### English:
   - (typically of speech or discussion) angry and bitter.
@@ -132,7 +132,7 @@
 #### Chinese:
   - adj.严厉的, 辛辣的
 
-### acute
+## acute
 
 #### English:
   - (of an unpleasant or unwelcome situation or phenomenon) present or experienced to a severe or intense degree.
@@ -143,7 +143,7 @@
 #### Chinese:
   - adj.敏锐的, [医]急性的, 剧烈
 
-### address
+## address
 
 #### English:
   - the particulars of the place where someone lives or an organization is situated.
@@ -158,7 +158,7 @@
   - n.地址, 致辞, 演讲,说话的技巧
   - vt.向...致辞, 演说, 写姓名地址, 从事, 忙于
 
-### adherent
+## adherent
 
 #### English:
   - someone who supports a particular party, person, or set of ideas.
@@ -167,7 +167,7 @@
 #### Chinese:
   - n.信徒, 追随者, 拥护者
 
-### adjacent
+## adjacent
 
 #### English:
   - next to or adjoining something else.
@@ -176,7 +176,7 @@
 #### Chinese:
   - adj.邻近的, 接近的
 
-### adroit
+## adroit
 
 #### English:
   - clever or skilful.
@@ -184,7 +184,7 @@
 #### Chinese:
   - adj.熟练的, 机捷的
 
-### adulation
+## adulation
 
 #### English:
   - excessive admiration or praise.
@@ -192,7 +192,7 @@
 #### Chinese:
   - n.奉承, 阿谀
 
-### adversary
+## adversary
 
 #### English:
   - one's opponent in a contest, conflict, or dispute.
@@ -200,7 +200,7 @@
 #### Chinese:
   - n.敌手, 对手
 
-### adverse
+## adverse
 
 #### English:
   - preventing success or development; harmful; unfavourable.
@@ -208,7 +208,7 @@
 #### Chinese:
   - adj.不利的, 敌对的, 相反的
 
-### advocate
+## advocate
 
 #### English:
   - publicly recommend or support.
@@ -219,7 +219,7 @@
   - n.提倡者, 鼓吹者
   - vt.提倡, 鼓吹
 
-### affable
+## affable
 
 #### English:
   - friendly, good-natured, or easy to talk to.
@@ -227,7 +227,7 @@
 #### Chinese:
   - adj.和蔼可亲的
 
-### affinity
+## affinity
 
 #### English:
   - a natural liking for and understanding of someone or something.
@@ -236,7 +236,7 @@
 #### Chinese:
   - n.密切关系 , 吸引力 , 姻亲关系, 亲合力
 
-### affirmation
+## affirmation
 
 #### English:
   - the action or process of affirming something.
@@ -245,7 +245,7 @@
 #### Chinese:
   - n.断言, 主张，肯定 
 
-### aggressor
+## aggressor
 
 #### English:
   - a person or country that attacks another first.
@@ -253,7 +253,7 @@
 #### Chinese:
   - n.侵略者, 攻击者
 
-### alienate
+## alienate
 
 #### English:
   - make (someone) feel isolated or estranged.
@@ -262,7 +262,7 @@
 #### Chinese:
   - v.疏远
 
-### alleviate
+## alleviate
 
 #### English:
   - make (suffering, deficiency, or a problem) less severe.
@@ -270,7 +270,7 @@
 #### Chinese:
   - vt.使(痛苦等)易于忍受, 减轻
 
-### aloof
+## aloof
 
 #### English:
   - not friendly or forthcoming; cool and distant.
@@ -279,7 +279,7 @@
   - adv.避开, 远离
   - adj.孤零的, 冷淡的
 
-### ambiguous
+## ambiguous
 
 #### English:
   - open to more than one interpretation; not having one obvious meaning.
@@ -288,7 +288,7 @@
   - adj.暧昧的, 不明确的
   - ambivalence n.正反感情并存
 
-### ameliorate
+## ameliorate
 
 #### English:
   - make (something bad or unsatisfactory) better.
@@ -296,7 +296,7 @@
 #### Chinese:
   - v.改善, 改进
 
-### amend
+## amend
 
 #### English:
   - make minor changes to (a text, piece of legislation, etc.) in order to make it fairer or more accurate, or to reflect changing circumstances.
@@ -305,7 +305,7 @@
 #### Chinese:
   - v.修正, 改进, 改正
 
-### amorphous
+## amorphous
 
 #### English:
   - without a clearly defined shape or form.
@@ -313,7 +313,7 @@
 #### Chinese:
   - adj.无定形的, 无组织的
 
-### ample
+## ample
 
 #### English:
   - enough or more than enough; plentiful.
@@ -321,7 +321,7 @@
 #### Chinese:
   - adj.充足的, 丰富的
 
-### analogy
+## analogy
 
 #### English:
   - a comparison between one thing and another, typically for the purpose of explanation or clarification.
@@ -329,7 +329,7 @@
 #### Chinese:
   - n.类似, 类推
 
-### anarchist
+## anarchist
 
 #### English:
   - a person who believes in or tries to bring about anarchy.
@@ -338,7 +338,7 @@
 #### Chinese:
   - n.无政府主义者
 
-### anecdote
+## anecdote
 
 #### English:
   - a short amusing or interesting story about a real incident or person.
@@ -346,7 +346,7 @@
 #### Chinese:
   - n.轶事, 奇闻
 
-### animosity
+## animosity
 
 #### English:
   - strong hostility.
@@ -354,7 +354,7 @@
 #### Chinese:
   - n.仇恨, 憎恶
 
-### antagonistic
+## antagonistic
 
 #### English:
   - showing or feeling active opposition or hostility towards someone or something.
@@ -363,7 +363,7 @@
 #### Chinese:
   - adj.反对的, 敌对的
 
-### antidote
+## antidote
 
 #### English:
   - a medicine taken or given to counteract a particular poison.
@@ -371,7 +371,7 @@
 #### Chinese:
   - n.[医]解毒剂, 矫正方法
 
-### antiquated
+## antiquated
 
 #### English:
   - old-fashioned or outdated.
@@ -379,7 +379,7 @@
 #### Chinese:
   - adj.陈旧的
 
-### antithesis
+## antithesis
 
 #### English:
   - a person or thing that is the direct opposite of someone or something else.
@@ -388,7 +388,7 @@
 #### Chinese:
   - n.对立面
 
-### apathy
+## apathy
 
 #### English:
   - lack of interest, enthusiasm, or concern.
@@ -396,7 +396,7 @@
 #### Chinese:
   - n.缺乏感情或兴趣, 冷漠
 
-### apocryphal
+## apocryphal
 
 #### English:
   - (of a story or statement) of doubtful authenticity, although widely circulated as being true.
@@ -404,7 +404,7 @@
 #### Chinese:
   - adj.伪经的,假冒的
 
-### appease
+## appease
 
 #### English:
   - pacify or placate (someone) by acceding to their demands.
@@ -413,7 +413,7 @@
 #### Chinese:
   - vt.平息, 安抚, 缓和, 使满足
 
-### appreciate
+## appreciate
 
 #### English:
   - recognize the full worth of.
@@ -424,7 +424,7 @@
   - vt.赏识, 鉴赏, 感激
   - vi.增值, 涨价
 
-### apprehension
+## apprehension
 
 #### English:
   - anxiety or fear that something bad or unpleasant will happen.
@@ -434,7 +434,7 @@
 #### Chinese:
   - n.理解, 忧惧, 拘捕
 
-### arable
+## arable
 
 #### English:
   - (of land) used or suitable for growing crops.
@@ -443,7 +443,7 @@
 #### Chinese:
   - adj.可耕的, 适于耕种的
 
-### arbitrary
+## arbitrary
 
 #### English:
   - based on random choice or personal whim, rather than any reason or system.

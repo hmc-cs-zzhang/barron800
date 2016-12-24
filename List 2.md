@@ -1,4 +1,4 @@
-### archaic
+## archaic
 
 #### English:
   - very old or old-fashioned.
@@ -6,14 +6,15 @@
 #### Chinese:
   - adj.古老的, 古代的, 陈旧的
 
-### ardor
+## ardor
 
 #### English:
+  - enthusiasm or passion.
 
 #### Chinese:
   - n.热诚, 情欲, 激情, 热情, 炽热
 
-### arid
+## arid
 
 #### English:
   - (of land or a climate) having little or no rain; too dry or barren to support vegetation.
@@ -22,7 +23,7 @@
 #### Chinese:
   - adj.干旱的 , 贫瘠的 (土地等), 无趣的, 沉闷的
 
-### arrogance
+## arrogance
 
 #### English:
   - the quality of being arrogant.
@@ -30,7 +31,7 @@
 #### Chinese:
   - n.傲慢态度, 自大
 
-### articulate
+## articulate
 
 #### English:
   - having or showing the ability to speak fluently and coherently.
@@ -42,14 +43,16 @@
   - adj.有关节的, 发音清晰的
   - vt.用关节连接 , 接合, 清晰明白地说
 
-### artifact
+## artifact
+  - an object made by a human being, typically an item of cultural or historical interest.
+  - something observed in a scientific investigation or experiment that is not naturally present but occurs as a result of the preparative or investigative procedure.
 
 #### English:
 
 #### Chinese:
   - n.人造物品
 
-### artisan
+## artisan
 
 #### English:
   - a worker in a skilled trade, especially one that involves making things by hand.
@@ -57,7 +60,7 @@
 #### Chinese:
   - n.工匠, 技工
 
-### ascendancy
+## ascendancy
 
 #### English:
   - occupation of a position of dominant power or influence.
@@ -65,7 +68,7 @@
 #### Chinese:
   - n.优势, 支配(或统治)地位
 
-### ascetic
+## ascetic
 
 #### English:
   - characterized by severe self-discipline and abstention from all forms of indulgence, typically for religious reasons.
@@ -75,7 +78,7 @@
   - n.禁欲者, 苦行修道者
   - adj.修道的, 苦行的
 
-### aspire
+## aspire
 
 #### English:
   - direct one's hopes or ambitions towards achieving something.
@@ -84,7 +87,7 @@
 #### Chinese:
   - vi.热望, 立志
 
-### assuage
+## assuage
 
 #### English:
   - make (an unpleasant feeling) less intense.
@@ -92,7 +95,7 @@
 #### Chinese:
   - vt.缓和, 减轻, 镇定
 
-### astute
+## astute
 
 #### English:
   - having or showing an ability to accurately assess situations or people and turn this to one's advantage.
@@ -100,7 +103,7 @@
 #### Chinese:
   - adj.机敏的, 狡猾的
 
-### atrophy
+## atrophy
 
 #### English:
   - (of body tissue or an organ) waste away, especially as a result of the degeneration of cells, or become vestigial during evolution.
@@ -110,7 +113,7 @@
 #### Chinese:
   - n.[医]萎缩, 萎缩症
 
-### attentive
+## attentive
 
 #### English:
   - paying close attention to something.
@@ -118,7 +121,7 @@
 #### Chinese:
   - adj.注意的, 专心的, 留意的
 
-### attribute
+## attribute
 
 #### English:
   - regard something as being caused by.
@@ -130,7 +133,7 @@
 #### Chinese:
   - n.属性, 品质, 特征, 加于,归结于
 
-### audacious
+## audacious
 
 #### English:
   - showing a willingness to take surprisingly bold risks.
@@ -139,7 +142,7 @@
 #### Chinese:
   - adj.大胆的, 卤莽的, 大胆创新的
 
-### augment
+## augment
 
 #### English:
   - make (something) greater by adding to it; increase.
@@ -149,7 +152,7 @@
   - v.增加, 增大
   - n.增加
 
-### austerity
+## austerity
 
 #### English:
   - sternness or severity of manner or attitude.
@@ -158,7 +161,7 @@
 #### Chinese:
   - n.严峻, 严厉, 朴素, 节俭, 苦行
 
-### authentic
+## authentic
 
 #### English:
   - of undisputed origin and not a copy; genuine.
@@ -167,7 +170,7 @@
 #### Chinese:
   - adj.可信的
 
-### authoritarian
+## authoritarian
 
 #### English:
   - favouring or enforcing strict obedience to authority at the expense of personal freedom.
@@ -176,7 +179,7 @@
 #### Chinese:
   - adj.独裁的, 独裁主义的
 
-### autonomous
+## autonomous
 
 #### English:
   - (of a country or region) having the freedom to govern itself or control its own affairs.
@@ -184,7 +187,7 @@
 #### Chinese:
   - adj.自治的
 
-### aversion
+## aversion
 
 #### English:
   - a strong dislike or disinclination.
@@ -192,7 +195,7 @@
 #### Chinese:
   - n.厌恶, 讨厌的事和人
 
-### banal
+## banal
 
 #### English:
   - so lacking in originality as to be obvious and boring.
@@ -200,7 +203,7 @@
 #### Chinese:
   - adj.平凡的, 陈腐的, 老一套的
 
-### bane
+## bane
 
 #### English:
   - a cause of great distress or annoyance.
@@ -209,7 +212,7 @@
 #### Chinese:
   - n.毒药, 祸害
 
-### belie
+## belie
 
 #### English:
   - (of an appearance) fail to give a true impression of (something).
@@ -218,7 +221,7 @@
 #### Chinese:
   - v.掩饰
 
-### belittle
+## belittle
 
 #### English:
   - dismiss (someone or something) as unimportant.
@@ -226,7 +229,7 @@
 #### Chinese:
   - vt.轻视, 使渺小, 使...显得渺小
 
-### belligerent
+## belligerent
 
 #### English:
   - a nation or person engaged in war or conflict, as recognized by international law.
@@ -235,7 +238,7 @@
 #### Chinese:
   - adj.好战的, 交战国的, 交战的
 
-### benevolent
+## benevolent
 
 #### English:
   - well meaning and kindly.
@@ -243,7 +246,7 @@
 #### Chinese:
   - adj.慈善的
 
-### benign
+## benign
 
 #### English:
   - gentle and kind.
@@ -252,7 +255,7 @@
 #### Chinese:
   - adj.(病)良性的 , (气候)良好的, 仁慈的, 和蔼的
 
-### bequeath
+## bequeath
 
 #### English:
   - leave (property) to a person or other beneficiary by a will.
@@ -260,7 +263,7 @@
 #### Chinese:
   - vt.遗赠, 遗留, 把...传下去
 
-### biased
+## biased
 
 #### English:
   - unfairly prejudiced for or against someone or something.
@@ -268,7 +271,7 @@
 #### Chinese:
   - adj.(统计试验中 )结果偏倚的, [数]有偏的
 
-### bland
+## bland
 
 #### English:
   - lacking strong features or characteristics and therefore uninteresting.
@@ -276,7 +279,7 @@
 #### Chinese:
   - adj.温和的, 柔和的, 乏味的, 冷漠的,刺激性少的
 
-### blasphemy
+## blasphemy
 
 #### English:
   - the action or offence of speaking sacrilegiously about God or sacred things; profane talk.
@@ -284,7 +287,7 @@
 #### Chinese:
   - n.亵渎(话)
 
-### bolster
+## bolster
 
 #### English:
   - a heavy chisel used for cutting bricks.
@@ -297,7 +300,7 @@
   - n.垫子
   - v.支持
 
-### braggart
+## braggart
 
 #### English:
   - a person who boasts about their achievements or possessions.
@@ -306,7 +309,7 @@
   - n.吹嘘
   - adj.吹牛的, 自夸的
 
-### brawn
+## brawn
 
 #### English:
   - physical strength in contrast to intelligence.
@@ -315,7 +318,7 @@
 #### Chinese:
   - n.强壮的肌肉, 膂力, 腕力, 腌制好的野猪肉
 
-### brevity
+## brevity
 
 #### English:
   - concise and exact use of words in writing or speech.
@@ -323,7 +326,7 @@
 #### Chinese:
   - n.(时间)短暂, (讲话, 文章等)简短
 
-### buttress
+## buttress
 
 #### English:
   - a structure of stone or brick built against a wall to strengthen or support it.
@@ -335,7 +338,7 @@
   - n.(建筑)扶壁, 支持物
   - vt.支持, (以扶壁)扶住
 
-### cacophonous
+## cacophonous
 
 #### English:
   - involving or producing a harsh, discordant mixture of sounds.
@@ -343,7 +346,7 @@
 #### Chinese:
   - adj.发音不和谐的 , 粗腔横调的
 
-### cajole
+## cajole
 
 #### English:
   - persuade (someone) to do something by sustained coaxing or flattery.
@@ -351,7 +354,7 @@
 #### Chinese:
   - vt.以甜言蜜语哄骗, 勾引
 
-### calculated
+## calculated
 
 #### English:
   - (of an action) done with full awareness of the likely consequences.
@@ -359,14 +362,15 @@
 #### Chinese:
   - adj.计算出的 , 有计划的 , 适当的, 适合的
 
-### candor
+## candor
 
 #### English:
+  - the quality of being open and honest in expression; frankness.
 
 #### Chinese:
   - n.坦白, 直率
 
-### capricious
+## capricious
 
 #### English:
   - given to sudden and unaccountable changes of mood or behaviour.
@@ -374,7 +378,7 @@
 #### Chinese:
   - adj.反复无常的
 
-### caricature
+## caricature
 
 #### English:
   - a picture, description, or imitation of a person in which certain striking characteristics are exaggerated in order to create a comic or grotesque effect.
@@ -384,7 +388,7 @@
   - n.讽刺画,漫画,讽刺描述法, 歪曲(或拙劣)的模仿
   - vt.画成漫画讽刺
 
-### censorious
+## censorious
 
 #### English:
   - severely critical of others.
@@ -392,7 +396,7 @@
 #### Chinese:
   - adj.受批判的, 挑剔的
 
-### censure
+## censure
 
 #### English:
   - the formal expression of severe disapproval.
@@ -402,7 +406,7 @@
   - v.责难
   - n.责难
 
-### certitude
+## certitude
 
 #### English:
   - absolute certainty or conviction that something is the case.
@@ -410,7 +414,7 @@
 #### Chinese:
   - n.确实, 确信
 
-### charlatan
+## charlatan
 
 #### English:
   - a person falsely claiming to have a special knowledge or skill.
@@ -418,7 +422,7 @@
 #### Chinese:
   - n.吹牛者
 
-### chronicle
+## chronicle
 
 #### English:
   - a factual written account of important or historical events in the order of their occurrence.
@@ -428,7 +432,7 @@
   - n.编年史
   - v.编入编年史
 
-### civil
+## civil
 
 #### English:
   - relating to ordinary citizens and their concerns, as distinct from military or ecclesiastical matters.

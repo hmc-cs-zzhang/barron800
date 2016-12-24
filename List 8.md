@@ -1,4 +1,4 @@
-### impervious
+## impervious
 
 #### English:
   - not allowing fluid to pass through.
@@ -7,7 +7,7 @@
 #### Chinese:
   - adj.不让进入,不会受到损伤的,密封的,不受影响的
 
-### impetuous
+## impetuous
 
 #### English:
   - acting or done quickly and without thought or care.
@@ -15,7 +15,7 @@
 #### Chinese:
   - adj.冲动的, 猛烈的, 激烈的
 
-### implausible
+## implausible
 
 #### English:
   - (of an argument or statement) not seeming reasonable or probable; failing to convince.
@@ -23,7 +23,7 @@
 #### Chinese:
   - adj.难信的, 不象真实的
 
-### implement
+## implement
 
 #### English:
   - put (a decision, plan, agreement, etc.) into effect.
@@ -35,7 +35,7 @@
   - vt.贯彻, 实现
   - v.执行
 
-### implication
+## implication
 
 #### English:
   - the conclusion that can be drawn from something although it is not explicitly stated.
@@ -44,7 +44,7 @@
 #### Chinese:
   - n.牵连, 含意, 暗示
 
-### implicit
+## implicit
 
 #### English:
   - suggested though not directly expressed.
@@ -55,14 +55,15 @@
 #### Chinese:
   - adj.暗示的,盲从的,含蓄的,固有的,不怀疑的,绝对的
 
-### impoverished
+## impoverished
+  - make (a person or area) poor.
 
 #### English:
 
 #### Chinese:
   - adj.穷困的, 无力的,用尽了的
 
-### impromptu
+## impromptu
 
 #### English:
   - done without being planned or rehearsed.
@@ -74,7 +75,7 @@
   - adj.即席的
   - adv.即席地, 未经准备地
 
-### impudence
+## impudence
 
 #### English:
   - the quality of being impudent; impertinence.
@@ -82,7 +83,7 @@
 #### Chinese:
   - n.轻率, 厚颜无耻
 
-### inadvertently
+## inadvertently
 
 #### English:
   - without intention; accidentally.
@@ -90,7 +91,7 @@
 #### Chinese:
   - adv.不注意地
 
-### inane
+## inane
 
 #### English:
   - lacking sense or meaning; silly.
@@ -98,7 +99,7 @@
 #### Chinese:
   - adj.空洞的
 
-### inaugurate
+## inaugurate
 
 #### English:
   - begin or introduce (a system, policy, or period).
@@ -106,7 +107,7 @@
 #### Chinese:
   - vt.举行就职典礼,创新,开辟,举行开幕(落成)典礼.
 
-### incense
+## incense
 
 #### English:
   - a gum, spice, or other substance that is burned for the sweet smell it produces.
@@ -117,7 +118,7 @@
   - n.熏香, 熏香的烟
   - vt.激怒
 
-### incentive
+## incentive
 
 #### English:
   - a thing that motivates or encourages someone to do something.
@@ -126,7 +127,7 @@
   - n.动机
   - adj.激励的
 
-### incessant
+## incessant
 
 #### English:
   - (of something regarded as unpleasant) continuing without pause or interruption.
@@ -134,7 +135,7 @@
 #### Chinese:
   - adj.不断的, 不停的
 
-### incidental
+## incidental
 
 #### English:
   - an incidental expense, event, etc..
@@ -145,7 +146,7 @@
   - adj.附带的,伴随的,非主要的,偶然的, 容易发生的 
   - n.伴随事件, (用复数)杂项、杂费
 
-### incisive
+## incisive
 
 #### English:
   - (of a person or mental process) intelligently analytical and clear-thinking.
@@ -154,7 +155,7 @@
 #### Chinese:
   - adj.深刻的, 尖锐的, 激烈的
 
-### incite
+## incite
 
 #### English:
   - encourage or stir up (violent or unlawful behaviour).
@@ -162,7 +163,7 @@
 #### Chinese:
   - vt.激动, 煽动
 
-### incline
+## incline
 
 #### English:
   - be favourably disposed towards or willing to do something.
@@ -175,14 +176,16 @@
   - vt.使倾向于, 使倾斜
   - vi.倾向, 倾斜
 
-### inclined
+## inclined
 
 #### English:
+  - feel willing or favorably disposed toward (an action, belief, or attitude).
+  - have a tendency to do something.
 
 #### Chinese:
   - adj.倾向...的
 
-### inclusive
+## inclusive
 
 #### English:
   - including all the services or items normally expected or required.
@@ -190,7 +193,7 @@
 #### Chinese:
   - adj.包含的, 包括的
 
-### incoherent
+## incoherent
 
 #### English:
   - (of spoken or written language) expressed in an incomprehensible or confusing way; unclear.
@@ -200,7 +203,7 @@
 #### Chinese:
   - adj.不连贯的, 语无伦次的
 
-### incongruous
+## incongruous
 
 #### English:
   - not in harmony or keeping with the surroundings or other aspects of something.
@@ -208,7 +211,7 @@
 #### Chinese:
   - adj.不调和的, 不适宜的
 
-### inconsequential
+## inconsequential
 
 #### English:
   - not important or significant.
@@ -216,7 +219,7 @@
 #### Chinese:
   - adj.不合逻辑的, 不合理的
 
-### incontrovertible
+## incontrovertible
 
 #### English:
   - not able to be denied or disputed.
@@ -224,7 +227,7 @@
 #### Chinese:
   - adj.无可争议的 , 无疑的 , 明白的
 
-### incorrigible
+## incorrigible
 
 #### English:
   - an incorrigible person.
@@ -233,7 +236,7 @@
 #### Chinese:
   - adj.无药可救的 , 不能被纠正的
 
-### indefatigable
+## indefatigable
 
 #### English:
   - (of a person or their efforts) persisting tirelessly.
@@ -241,7 +244,7 @@
 #### Chinese:
   - adj.不知疲倦的
 
-### indict
+## indict
 
 #### English:
   - formally accuse of or charge with a crime.
@@ -249,7 +252,7 @@
 #### Chinese:
   - vt.起诉, 控告, 指控, 告发
 
-### indifferent
+## indifferent
 
 #### English:
   - having no particular interest or sympathy; unconcerned.
@@ -258,7 +261,7 @@
 #### Chinese:
   - adj.无关紧要的
 
-### indigenous
+## indigenous
 
 #### English:
   - originating or occurring naturally in a particular place; native.
@@ -266,7 +269,7 @@
 #### Chinese:
   - adj.本土的
 
-### indigent
+## indigent
 
 #### English:
   - poor; needy.
@@ -275,7 +278,7 @@
 #### Chinese:
   - adj.贫乏的, 穷困的
 
-### indiscriminate
+## indiscriminate
 
 #### English:
   - done at random or without careful judgement.
@@ -283,7 +286,7 @@
 #### Chinese:
   - adj.不分皂白的 , 不加选择的
 
-### indolent
+## indolent
 
 #### English:
   - wanting to avoid activity or exertion; lazy.
@@ -292,7 +295,7 @@
 #### Chinese:
   - adj.懒惰的, 不痛的
 
-### indomitable
+## indomitable
 
 #### English:
   - impossible to subdue or defeat.
@@ -300,7 +303,7 @@
 #### Chinese:
   - adj.不屈服的, 不屈不挠的
 
-### indubitable
+## indubitable
 
 #### English:
   - impossible to doubt; unquestionable.
@@ -308,7 +311,7 @@
 #### Chinese:
   - adj.不容置疑的,确实的,明白的
 
-### induce
+## induce
 
 #### English:
   - succeed in persuading or leading (someone) to do something.
@@ -319,7 +322,7 @@
 #### Chinese:
   - vt.劝诱, 促使, 导致, 引起, 感应
 
-### indulge
+## indulge
 
 #### English:
   - allow oneself to enjoy the pleasure of.
@@ -328,7 +331,7 @@
 #### Chinese:
   - v.纵容
 
-### industrious
+## industrious
 
 #### English:
   - diligent and hard-working.
@@ -336,7 +339,7 @@
 #### Chinese:
   - adj.勤勉的, 刻苦的
 
-### ineffectual
+## ineffectual
 
 #### English:
   - not producing any significant or desired effect.
@@ -344,7 +347,7 @@
 #### Chinese:
   - adj.无效的, 不成功的
 
-### inept
+## inept
 
 #### English:
   - having or showing no skill; clumsy.
@@ -352,7 +355,7 @@
 #### Chinese:
   - adj.不适当的, 无能的,不称职的
 
-### inequity
+## inequity
 
 #### English:
   - lack of fairness or justice.
@@ -360,7 +363,7 @@
 #### Chinese:
   - n.不公平, 不公正
 
-### inert
+## inert
 
 #### English:
   - lacking the ability or strength to move.
@@ -369,7 +372,7 @@
 #### Chinese:
   - adj.无活动的, 惰性的, 迟钝的
 
-### inexorable
+## inexorable
 
 #### English:
   - impossible to stop or prevent.
@@ -377,7 +380,7 @@
 #### Chinese:
   - adj.无情的
 
-### infamous
+## infamous
 
 #### English:
   - well known for some bad quality or deed.
@@ -385,7 +388,7 @@
 #### Chinese:
   - adj.声名狼籍的
 
-### infer
+## infer
 
 #### English:
   - deduce or conclude (something) from evidence and reasoning rather than from explicit statements.
@@ -393,7 +396,7 @@
 #### Chinese:
   - v.推断
 
-### infiltrate
+## infiltrate
 
 #### English:
   - enter or gain access to (an organization, place, etc.) surreptitiously and gradually, especially in order to acquire secret information.
@@ -404,7 +407,7 @@
 #### Chinese:
   - v.渗透
 
-### infinitesimal
+## infinitesimal
 
 #### English:
   - extremely small.
@@ -414,7 +417,7 @@
   - adj.无穷小的, 极小的, 无限小的 
   - n.极小量, 极微量, 无限小
 
-### infraction
+## infraction
 
 #### English:
   - a violation or infringement of a law or agreement.
@@ -422,7 +425,7 @@
 #### Chinese:
   - n.违反, 侵害
 
-### ingenious
+## ingenious
 
 #### English:
   - (of a person) clever, original, and inventive.
@@ -430,7 +433,7 @@
 #### Chinese:
   - adj.机灵的,有独创性的,精制的, 具有创造才能
 
-### ingrate
+## ingrate
 
 #### English:
   - ungrateful.

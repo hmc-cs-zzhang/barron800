@@ -1,4 +1,4 @@
-### document
+## document
 
 #### English:
   - record (something) in written, photographic, or other form.
@@ -8,7 +8,7 @@
   - n.公文, 文件, 文档, 档案, 文献
   - v.证明
 
-### dogmatic
+## dogmatic
 
 #### English:
   - inclined to lay down principles as undeniably true.
@@ -16,7 +16,7 @@
 #### Chinese:
   - adj.教条的, 独断的
 
-### dormant
+## dormant
 
 #### English:
   - (of an animal) having normal physical functions suspended or slowed down for a period of time; in or as if in a deep sleep.
@@ -24,7 +24,7 @@
 #### Chinese:
   - adj.睡眠状态的,静止的,隐匿的
 
-### dubious
+## dubious
 
 #### English:
   - hesitating or doubting.
@@ -33,7 +33,7 @@
 #### Chinese:
   - adj.可疑的, 不确定的
 
-### duplicity
+## duplicity
 
 #### English:
   - deceitfulness.
@@ -42,7 +42,7 @@
 #### Chinese:
   - n.奸诈,狡猾,搞两面派,口是心非,不诚实,表里不一
 
-### duration
+## duration
 
 #### English:
   - the time during which something continues.
@@ -50,7 +50,7 @@
 #### Chinese:
   - n.持续时间, 为期
 
-### dutiful
+## dutiful
 
 #### English:
   - conscientiously or obediently fulfilling one's duty.
@@ -58,7 +58,7 @@
 #### Chinese:
   - adj.忠实的, 顺从的, 守本分的, 恭敬的, 孝敬的
 
-### ebb
+## ebb
 
 #### English:
   - the movement of the tide out to sea.
@@ -69,7 +69,7 @@
   - n.退, 弱, 退潮, 衰落
   - vi.潮退, 衰退
 
-### eccentric
+## eccentric
 
 #### English:
   - (of a person or their behaviour) unconventional and slightly strange.
@@ -81,7 +81,7 @@
   - adj.古怪
   - n.行为古怪的人
 
-### eclectic
+## eclectic
 
 #### English:
   - a person who derives ideas, style, or taste from a broad and diverse range of sources.
@@ -92,7 +92,7 @@
   - adj.折衷的, 折衷学派的
   - n.折衷主义者, 折衷派的人
 
-### eclipse
+## eclipse
 
 #### English:
   - (of a celestial body) obscure the light from or to (another celestial body).
@@ -103,7 +103,7 @@
   - n.食, 日蚀, 月蚀, 蒙蔽, 衰落
   - vt.引起日蚀 , 引起月蚀 , 超越, 使黯然失色
 
-### effervescent
+## effervescent
 
 #### English:
   - (of a liquid) giving off bubbles; fizzy.
@@ -112,7 +112,7 @@
 #### Chinese:
   - adj.冒泡的, 兴奋的
 
-### egotistical
+## egotistical
 
 #### English:
   - excessively conceited or absorbed in oneself; self-centred.
@@ -120,14 +120,15 @@
 #### Chinese:
   - adj.自我本位的, 任性的
 
-### elated
+## elated
+  - make (someone) ecstatically happy.
 
 #### English:
 
 #### Chinese:
   - adj.兴高采烈的, 得意洋洋
 
-### eloquence
+## eloquence
 
 #### English:
   - fluent or persuasive speaking or writing.
@@ -135,7 +136,7 @@
 #### Chinese:
   - n.雄辩, 口才, 修辞
 
-### elusive
+## elusive
 
 #### English:
   - difficult to find, catch, or achieve.
@@ -143,7 +144,7 @@
 #### Chinese:
   - adj.难懂的, 难捉摸的, 易忘的
 
-### embellish
+## embellish
 
 #### English:
   - make (something) more attractive by the addition of decorative details or features.
@@ -151,7 +152,7 @@
 #### Chinese:
   - v.修饰
 
-### emulate
+## emulate
 
 #### English:
   - match or surpass (a person or achievement), typically by imitation.
@@ -159,7 +160,7 @@
 #### Chinese:
   - n.仿效
 
-### endorse
+## endorse
 
 #### English:
   - declare one's public approval or support of.
@@ -170,7 +171,7 @@
 #### Chinese:
   - v.在(票据)背面签名, 签注 (文件), 认可, 签署
 
-### enduring
+## enduring
 
 #### English:
   - lasting over a period of time; durable.
@@ -178,7 +179,7 @@
 #### Chinese:
   - adj.持久的, 不朽的
 
-### enervate
+## enervate
 
 #### English:
   - make (someone) feel drained of energy or vitality.
@@ -187,7 +188,7 @@
 #### Chinese:
   - v.削弱
 
-### engender
+## engender
 
 #### English:
   - cause or give rise to (a feeling, situation, or condition).
@@ -195,7 +196,7 @@
 #### Chinese:
   - v.造成
 
-### enhance
+## enhance
 
 #### English:
   - intensify, increase, or further improve the quality, value, or extent of.
@@ -204,7 +205,7 @@
   - vt.提高, 增强
   - v.提高
 
-### enigma
+## enigma
 
 #### English:
   - a person or thing that is mysterious or difficult to understand.
@@ -212,7 +213,7 @@
 #### Chinese:
   - n.谜, 不可思议的东西
 
-### enmity
+## enmity
 
 #### English:
   - a state or feeling of active opposition or hostility.
@@ -220,7 +221,7 @@
 #### Chinese:
   - n.敌意, 憎恨
 
-### enumerate
+## enumerate
 
 #### English:
   - mention (a number of things) one by one.
@@ -228,7 +229,7 @@
 #### Chinese:
   - v.列举
 
-### ephemeral
+## ephemeral
 
 #### English:
   - an ephemeral plant.
@@ -237,7 +238,7 @@
 #### Chinese:
   - adj.朝生暮死的 , 短暂的 , 短命的
 
-### epic
+## epic
 
 #### English:
   - relating to or characteristic of an epic or epics.
@@ -249,7 +250,7 @@
   - n.史诗, 伟大事迹
   - adj.英雄的, 壮丽的, 大规模的
 
-### epicure
+## epicure
 
 #### English:
   - a person who takes particular pleasure in fine food and drink.
@@ -257,7 +258,7 @@
 #### Chinese:
   - n.美食家, 老饕, <古>享乐主义者
 
-### episodic
+## episodic
 
 #### English:
   - containing or consisting of a series of separate parts or events.
@@ -266,7 +267,7 @@
 #### Chinese:
   - adj.插话式的
 
-### equanimity
+## equanimity
 
 #### English:
   - calmness and composure, especially in a difficult situation.
@@ -274,7 +275,7 @@
 #### Chinese:
   - n.镇定
 
-### equivocal
+## equivocal
 
 #### English:
   - open to more than one interpretation; ambiguous.
@@ -282,7 +283,7 @@
 #### Chinese:
   - adj.意义不明确的,模棱两可的,可疑的
 
-### erratic
+## erratic
 
 #### English:
   - a rock or boulder that differs from the surrounding rock and is believed to have been brought from a distance by glacial action.
@@ -291,7 +292,7 @@
 #### Chinese:
   - adj.无确定路线,不稳定的,奇怪的 n.古怪的人, 漂泊无定的人
 
-### erroneous
+## erroneous
 
 #### English:
   - wrong; incorrect.
@@ -299,7 +300,7 @@
 #### Chinese:
   - adj.错误的, 不正确的
 
-### erudite
+## erudite
 
 #### English:
   - having or showing great knowledge or learning.
@@ -307,7 +308,7 @@
 #### Chinese:
   - adj.博学的
 
-### esoteric
+## esoteric
 
 #### English:
   - intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.
@@ -315,7 +316,7 @@
 #### Chinese:
   - adj.深奥
 
-### espouse
+## espouse
 
 #### English:
   - adopt or support (a cause, belief, or way of life).
@@ -324,7 +325,7 @@
 #### Chinese:
   - vt.嫁娶, 支持, 赞成
 
-### esteem
+## esteem
 
 #### English:
   - respect and admiration.
@@ -335,7 +336,7 @@
   - vt.把 ...看作,尊敬,尊重,认为
   - n.尊敬, 尊重
 
-### ethereal
+## ethereal
 
 #### English:
   - extremely delicate and light in a way that seems not to be of this world.
@@ -344,7 +345,7 @@
 #### Chinese:
   - adj.轻的, 天上的, 象空气的
 
-### eulogy
+## eulogy
 
 #### English:
   - a speech or piece of writing that praises someone or something highly, especially a tribute to someone who has just died.
@@ -352,7 +353,7 @@
 #### Chinese:
   - n.赞词, 颂词, 歌功颂德的话
 
-### euphemism
+## euphemism
 
 #### English:
   - a mild or indirect word or expression substituted for one considered to be too harsh or blunt when referring to something unpleasant or embarrassing.
@@ -360,7 +361,7 @@
 #### Chinese:
   - n.[语法]委婉的说法
 
-### euphonious
+## euphonious
 
 #### English:
   - (of sound, especially speech) pleasing to the ear.
@@ -368,7 +369,7 @@
 #### Chinese:
   - adj.悦耳
 
-### euphoria
+## euphoria
 
 #### English:
   - a feeling or state of intense excitement and happiness.
@@ -376,7 +377,7 @@
 #### Chinese:
   - n.精神欢快,欣快, 兴高采烈,[心]欣快症
 
-### evanescent
+## evanescent
 
 #### English:
   - soon passing out of sight, memory, or existence; quickly fading or disappearing.
@@ -385,7 +386,7 @@
 #### Chinese:
   - adj.渐消失的,易消散的,会凋零的
 
-### exacerbate
+## exacerbate
 
 #### English:
   - make (a problem, bad situation, or negative feeling) worse.
@@ -393,7 +394,7 @@
 #### Chinese:
   - vt.恶化, 增剧, 激怒, 使加剧, 使烦恼
 
-### exacting
+## exacting
 
 #### English:
   - making great demands on one's skill, attention, or other resources.
@@ -401,7 +402,7 @@
 #### Chinese:
   - adj.苛求的, 严格的, 吃力的, 需付出极大耐心
 
-### exalt
+## exalt
 
 #### English:
   - think or speak very highly of (someone or something).
@@ -411,7 +412,7 @@
   - v.晋升
   - execute vt.执行,实行,完成,处死,制成,[律]经签名盖等手续使(证书)生效
 
-### exemplary
+## exemplary
 
 #### English:
   - serving as a desirable model; very good.
@@ -420,7 +421,7 @@
 #### Chinese:
   - adj.可仿效的,可做模范的,警戒性的,惩戒性的
 
-### exemplify
+## exemplify
 
 #### English:
   - be a typical example of.
@@ -429,7 +430,7 @@
 #### Chinese:
   - vt.例证, 例示, 作为...例子
 
-### exhaustive
+## exhaustive
 
 #### English:
   - including or considering all elements or aspects; fully comprehensive.

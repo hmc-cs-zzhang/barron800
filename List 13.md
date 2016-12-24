@@ -1,4 +1,4 @@
-### provincial
+## provincial
 
 #### English:
   - of or concerning a province of a country or empire.
@@ -10,7 +10,7 @@
 #### Chinese:
   - adj.省的
 
-### provisional
+## provisional
 
 #### English:
   - a provisional stamp.
@@ -21,7 +21,7 @@
 #### Chinese:
   - adj.临时的
 
-### provocative
+## provocative
 
 #### English:
   - causing anger or another strong reaction, especially deliberately.
@@ -30,7 +30,7 @@
   - adj.煽动的
   - n.刺激物
 
-### proximity
+## proximity
 
 #### English:
   - nearness in space, time, or relationship.
@@ -38,7 +38,7 @@
 #### Chinese:
   - n.接近, 亲近
 
-### prudent
+## prudent
 
 #### English:
   - acting with or showing care and thought for the future.
@@ -46,14 +46,14 @@
 #### Chinese:
   - adj.谨慎的
 
-### pugnacity
+## pugnacity
 
 #### English:
 
 #### Chinese:
   - n.好斗
 
-### pungent
+## pungent
 
 #### English:
   - having a sharply strong taste or smell.
@@ -61,7 +61,7 @@
 #### Chinese:
   - adj.(指气味、味道)刺激性的,辛辣的, 尖锐的, 苦痛的, 严厉的
 
-### purse
+## purse
 
 #### English:
   - (with reference to the lips) pucker or contract, typically to express disapproval or irritation.
@@ -71,7 +71,7 @@
 #### Chinese:
   - n.钱包
 
-### qualified
+## qualified
 
 #### English:
   - officially recognized as being trained to perform a particular job; certified.
@@ -80,7 +80,7 @@
 #### Chinese:
   - adj.有资格的
 
-### quandary
+## quandary
 
 #### English:
   - a state of perplexity or uncertainty over what to do in a difficult situation.
@@ -88,7 +88,7 @@
 #### Chinese:
   - n.困惑, 窘境, 进退两难
 
-### quell
+## quell
 
 #### English:
   - put an end to (a rebellion or other disorder), typically by the use of force.
@@ -96,7 +96,7 @@
 #### Chinese:
   - v.镇压
 
-### querulous
+## querulous
 
 #### English:
   - complaining in a rather petulant or whining manner.
@@ -104,7 +104,7 @@
 #### Chinese:
   - adj.鸣不平的 , 发牢骚的 , 易怒的, 暴躁的
 
-### quiescent
+## quiescent
 
 #### English:
   - in a state or period of inactivity or dormancy.
@@ -112,7 +112,7 @@
 #### Chinese:
   - adj.静止的
 
-### ramble
+## ramble
 
 #### English:
   - a walk taken for pleasure in the countryside.
@@ -124,14 +124,15 @@
   - v.漫游
   - n.漫游
 
-### rancor
+## rancor
 
 #### English:
+  - physical strength and good health.
 
 #### Chinese:
   - n.深仇, 怨恨
 
-### rant
+## rant
 
 #### English:
   - speak or shout at length in an angry, impassioned way.
@@ -140,7 +141,7 @@
 #### Chinese:
   - v.咆哮, 激昂地说 n.咆哮, 激昂的演说
 
-### ratify
+## ratify
 
 #### English:
   - sign or give formal consent to (a treaty, contract, or agreement), making it officially valid.
@@ -148,7 +149,7 @@
 #### Chinese:
   - vt.批准, 认可
 
-### raucous
+## raucous
 
 #### English:
   - making or constituting a disturbingly harsh and loud noise.
@@ -156,7 +157,7 @@
 #### Chinese:
   - adj.沙哑的
 
-### raze
+## raze
 
 #### English:
   - completely destroy (a building, town, or other settlement).
@@ -164,7 +165,7 @@
 #### Chinese:
   - v.夷为平地
 
-### rebuttal
+## rebuttal
 
 #### English:
   - an instance of rebutting evidence or an accusation.
@@ -172,7 +173,7 @@
 #### Chinese:
   - n.辩驳, 举反证
 
-### recalcitrant
+## recalcitrant
 
 #### English:
   - having an obstinately uncooperative attitude towards authority or discipline.
@@ -182,7 +183,7 @@
   - adj.反抗的, 反对的, 顽抗的
   - n.反抗的人, 顽抗者
 
-### recant
+## recant
 
 #### English:
   - say that one no longer holds an opinion or belief, especially one considered heretical.
@@ -190,7 +191,7 @@
 #### Chinese:
   - v.放弃
 
-### receptive
+## receptive
 
 #### English:
   - willing to consider or accept new suggestions and ideas.
@@ -198,7 +199,7 @@
 #### Chinese:
   - adj.善于接受的, 能接纳的
 
-### recluse
+## recluse
 
 #### English:
   - favouring a solitary life.
@@ -207,7 +208,7 @@
 #### Chinese:
   - adj.隐遁的, 寂寞的 n.隐遁者, 寂寞者
 
-### recount
+## recount
 
 #### English:
   - tell someone about something; give an account of an event or experience.
@@ -218,7 +219,7 @@
 #### Chinese:
   - v.叙述
 
-### rectify
+## rectify
 
 #### English:
   - put right; correct.
@@ -229,7 +230,7 @@
 #### Chinese:
   - vt.矫正, 调整, [化]精馏
 
-### redundant
+## redundant
 
 #### English:
   - not or no longer needed or useful; superfluous.
@@ -237,7 +238,7 @@
 #### Chinese:
   - adj.多余的
 
-### refute
+## refute
 
 #### English:
   - prove (a statement or theory) to be wrong or false; disprove.
@@ -245,7 +246,7 @@
 #### Chinese:
   - vt.驳倒, 反驳
 
-### relegate
+## relegate
 
 #### English:
   - assign an inferior rank or position to.
@@ -253,7 +254,7 @@
 #### Chinese:
   - v.转移, 归入, 提交
 
-### relevant
+## relevant
 
 #### English:
   - closely connected or appropriate to what is being done or considered.
@@ -261,7 +262,7 @@
 #### Chinese:
   - adj.有关的, 相应的
 
-### relinquish
+## relinquish
 
 #### English:
   - voluntarily cease to keep or claim; give up.
@@ -269,7 +270,7 @@
 #### Chinese:
   - v.放弃
 
-### relish
+## relish
 
 #### English:
   - enjoy greatly.
@@ -281,7 +282,7 @@
 #### Chinese:
   - n.意味
 
-### remorse
+## remorse
 
 #### English:
   - deep regret or guilt for a wrong committed.
@@ -289,7 +290,7 @@
 #### Chinese:
   - n.懊悔, 自责, 同情, 怜悯
 
-### renegade
+## renegade
 
 #### English:
   - having treacherously changed allegiance.
@@ -301,7 +302,7 @@
   - adj.背弃的, 脱离的, 变节的
   - vi.背弃, 脱离
 
-### renounce
+## renounce
 
 #### English:
   - formally declare one's abandonment of (a claim, right, or possession).
@@ -309,7 +310,7 @@
 #### Chinese:
   - v.断绝关系
 
-### repel
+## repel
 
 #### English:
   - drive or force (an attack or attacker) back or away.
@@ -319,7 +320,7 @@
 #### Chinese:
   - vt.击退, 抵制, 使厌恶,使不愉快
 
-### replete
+## replete
 
 #### English:
   - filled or well-supplied with something.
@@ -327,7 +328,7 @@
 #### Chinese:
   - adj.充满的
 
-### reprehensible
+## reprehensible
 
 #### English:
   - deserving censure or condemnation.
@@ -335,7 +336,7 @@
 #### Chinese:
   - adj.应斥责的, 应该谴责的
 
-### repress
+## repress
 
 #### English:
   - subdue (someone or something) by force.
@@ -344,7 +345,7 @@
   - vt.<美>再压, 补充加压
   - vi.压制
 
-### reprimand
+## reprimand
 
 #### English:
   - a formal expression of disapproval.
@@ -353,7 +354,7 @@
 #### Chinese:
   - n.申斥
 
-### reproach
+## reproach
 
 #### English:
   - the expression of disapproval or disappointment.
@@ -362,7 +363,7 @@
 #### Chinese:
   - v.责备
 
-### reprove
+## reprove
 
 #### English:
   - reprimand (someone).
@@ -370,7 +371,7 @@
 #### Chinese:
   - v.责备
 
-### repudiate
+## repudiate
 
 #### English:
   - refuse to accept; reject.
@@ -379,7 +380,7 @@
 #### Chinese:
   - v.批判
 
-### rescind
+## rescind
 
 #### English:
   - revoke, cancel, or repeal (a law, order, or agreement).
@@ -387,7 +388,7 @@
 #### Chinese:
   - v.废除
 
-### reserve
+## reserve
 
 #### English:
   - retain for future use.
@@ -404,7 +405,7 @@
   - n.储备(物),储藏量,预备队
   - vt.储备, 保存, 保留, 预定,预约
 
-### resigned
+## resigned
 
 #### English:
   - having accepted something unpleasant that one cannot do anything about.
@@ -412,7 +413,7 @@
 #### Chinese:
   - adj.顺从的, 听天由命的
 
-### resolution
+## resolution
 
 #### English:
   - a firm decision to do or not to do something.
@@ -424,7 +425,7 @@
 #### Chinese:
   - n.坚定, 决心, 决定, 决议
 
-### resolve
+## resolve
 
 #### English:
   - firm determination to do something.
@@ -439,7 +440,7 @@
   - v.决心, 决定, 决心要, (使)分解, 溶解, 解决
   - vt.解决
 
-### respite
+## respite
 
 #### English:
   - postpone (a sentence, obligation, etc.).
@@ -449,7 +450,7 @@
   - n.暂缓
   - v.暂缓
 
-### reticent
+## reticent
 
 #### English:
   - not revealing one's thoughts or feelings readily.

@@ -1,4 +1,4 @@
-### retiring
+## retiring
 
 #### English:
   - shy and fond of being on one's own.
@@ -6,7 +6,7 @@
 #### Chinese:
   - adj.退休的
 
-### retract
+## retract
 
 #### English:
   - draw or be drawn back or back in.
@@ -15,7 +15,7 @@
 #### Chinese:
   - v.缩回, 缩进, 所卷(舌等),收回, 取消, 撤消
 
-### reverent
+## reverent
 
 #### English:
   - feeling or showing deep and solemn respect.
@@ -23,7 +23,7 @@
 #### Chinese:
   - adj.尊敬的, 虔诚的
 
-### rhetorical
+## rhetorical
 
 #### English:
   - relating to or concerned with the art of rhetoric.
@@ -32,7 +32,7 @@
 #### Chinese:
   - adj.带修辞色彩的
 
-### rigorous
+## rigorous
 
 #### English:
   - extremely thorough and careful.
@@ -40,7 +40,7 @@
 #### Chinese:
   - adj.严格的, 严厉的, 严酷的, 严峻的
 
-### robust
+## robust
 
 #### English:
   - strong and healthy; vigorous.
@@ -49,7 +49,7 @@
 #### Chinese:
   - adj.精力充沛的
 
-### rudimentary
+## rudimentary
 
 #### English:
   - involving or limited to basic principles.
@@ -57,7 +57,7 @@
 #### Chinese:
   - adj.根本的, 未发展的
 
-### ruthless
+## ruthless
 
 #### English:
   - having or showing no pity or compassion for others.
@@ -65,7 +65,7 @@
 #### Chinese:
   - adj.无情的, 残忍的
 
-### sagacious
+## sagacious
 
 #### English:
   - having or showing keen mental discernment and good judgement; wise or shrewd.
@@ -73,7 +73,7 @@
 #### Chinese:
   - adj.有洞察力的 , 有远见的 , 精明的, 敏锐的
 
-### sage
+## sage
 
 #### English:
   - profoundly wise.
@@ -85,7 +85,7 @@
   - adj.贤明的, 明智的, 审慎的
   - n.贤人, 圣人, 年高望重的人
 
-### sanction
+## sanction
 
 #### English:
   - give official permission or approval for (an action).
@@ -97,7 +97,7 @@
   - n.批准, 同意, 支持, 制裁, 认可
   - v.批准, 同意, 支持, 鼓励, 认可
 
-### sanctuary
+## sanctuary
 
 #### English:
   - refuge or safety from pursuit, persecution, or other danger.
@@ -107,7 +107,7 @@
 #### Chinese:
   - n.避难所
 
-### sarcasm
+## sarcasm
 
 #### English:
   - the use of irony to mock or convey contempt.
@@ -115,7 +115,7 @@
 #### Chinese:
   - n.挖苦, 讽刺
 
-### satirical
+## satirical
 
 #### English:
   - containing or using satire.
@@ -123,7 +123,7 @@
 #### Chinese:
   - adj.好讽刺的, 爱挖苦人的
 
-### saturate
+## saturate
 
 #### English:
   - saturated with moisture.
@@ -133,7 +133,7 @@
 #### Chinese:
   - v.使饱和, 浸透, 使充满
 
-### savory
+## savory
 
 #### English:
   - an aromatic plant of the mint family, used as a culinary herb.
@@ -142,7 +142,7 @@
   - adj.风味极佳的 , 可口的 , 味美的
   - n.使人开胃的菜肴
 
-### scanty
+## scanty
 
 #### English:
   - small or insufficient in quantity or amount.
@@ -151,7 +151,7 @@
 #### Chinese:
   - adj.缺乏的,不足的,稀疏的,俭省的,不充足的
 
-### scrupulous
+## scrupulous
 
 #### English:
   - (of a person or process) careful, thorough, and extremely attentive to details.
@@ -159,14 +159,14 @@
 #### Chinese:
   - adj.小心谨慎的, 细心的
 
-### scrutinize
+## scrutinize
 
 #### English:
   - examine or inspect closely and thoroughly.
 
 #### Chinese:
 
-### seclusion
+## seclusion
 
 #### English:
   - the state of being private and away from other people.
@@ -174,7 +174,7 @@
 #### Chinese:
   - n.隔离
 
-### sectarian
+## sectarian
 
 #### English:
   - denoting or concerning a sect or sects.
@@ -183,7 +183,7 @@
 #### Chinese:
   - n.宗派主义者
 
-### sedentary
+## sedentary
 
 #### English:
   - (of a person) tending to spend much time seated; somewhat inactive.
@@ -192,7 +192,7 @@
   - adj.久坐的, 坐惯的, 土生的, 不移栖的, 沉积的
   - n.惯于久坐的人
 
-### sequester
+## sequester
 
 #### English:
   - a general cut in government spending.
@@ -203,7 +203,7 @@
   - adv.幽静的, 隐蔽的
   - vt.使隐退, 使隔绝, 扣押, 没收
 
-### serenity
+## serenity
 
 #### English:
   - the state of being calm, peaceful, and untroubled.
@@ -211,7 +211,7 @@
 #### Chinese:
   - n.平静
 
-### servile
+## servile
 
 #### English:
   - having or showing an excessive willingness to serve or please others.
@@ -220,7 +220,7 @@
 #### Chinese:
   - adj.奴隶的, 奴性(态)的, 卑屈的
 
-### sever
+## sever
 
 #### English:
   - divide by cutting or slicing, especially suddenly and forcibly.
@@ -228,7 +228,7 @@
 #### Chinese:
   - v.切断
 
-### severity
+## severity
 
 #### English:
   - the fact or condition of being severe.
@@ -236,7 +236,7 @@
 #### Chinese:
   - n.严肃, 严格, 严重, 激烈
 
-### shrewd
+## shrewd
 
 #### English:
   - having or showing sharp powers of judgement; astute.
@@ -245,7 +245,7 @@
 #### Chinese:
   - adj.精明
 
-### singular
+## singular
 
 #### English:
   - (of a word or form) denoting or referring to just one person or thing.
@@ -258,14 +258,14 @@
   - n.单数
   - adj.单一的, 非凡的, 异常的, 持异议的
 
-### skeptical
+## skeptical
 
 #### English:
 
 #### Chinese:
   - adj.怀疑性的,好怀疑的,<口>无神论的
 
-### slacken
+## slacken
 
 #### English:
   - make or become slack.
@@ -274,7 +274,7 @@
 #### Chinese:
   - v.松弛, 放慢, 减弱, 减少, 减缓放慢
 
-### slander
+## slander
 
 #### English:
   - make false and damaging statements about (someone).
@@ -284,7 +284,7 @@
   - n.诽谤
   - v.诽谤
 
-### slothful
+## slothful
 
 #### English:
   - lazy.
@@ -292,7 +292,7 @@
 #### Chinese:
   - adj.偷懒的
 
-### sluggish
+## sluggish
 
 #### English:
   - slow-moving or inactive.
@@ -300,7 +300,7 @@
 #### Chinese:
   - adj.行动迟缓的
 
-### solemnity
+## solemnity
 
 #### English:
   - the state or quality of being serious and dignified.
@@ -308,7 +308,7 @@
 #### Chinese:
   - n.严肃, 一本正经
 
-### solicit
+## solicit
 
 #### English:
   - ask for or try to obtain (something) from someone.
@@ -317,7 +317,7 @@
 #### Chinese:
   - v.恳求
 
-### solitude
+## solitude
 
 #### English:
   - the state or situation of being alone.
@@ -326,7 +326,7 @@
 #### Chinese:
   - n.孤独
 
-### soluble
+## soluble
 
 #### English:
   - (of a substance) able to be dissolved, especially in water.
@@ -335,14 +335,14 @@
 #### Chinese:
   - adj.可溶的, 可溶解的
 
-### somber
+## somber
 
 #### English:
 
 #### Chinese:
   - adj.阴森的, 昏暗的, 阴天的, 忧郁的
 
-### sparse
+## sparse
 
 #### English:
   - thinly dispersed or scattered.
@@ -350,7 +350,7 @@
 #### Chinese:
   - adj.稀少的, 稀疏的
 
-### spendthrift
+## spendthrift
 
 #### English:
   - a person who spends money in an extravagant, irresponsible way.
@@ -358,7 +358,7 @@
 #### Chinese:
   - n.挥霍者
 
-### spontaneity
+## spontaneity
 
 #### English:
   - the condition of being spontaneous; spontaneous behaviour or action.
@@ -366,7 +366,7 @@
 #### Chinese:
   - n.自发性
 
-### sporadic
+## sporadic
 
 #### English:
   - occurring at irregular intervals or only in a few places; scattered or isolated.
@@ -374,7 +374,7 @@
 #### Chinese:
   - adj.零星的
 
-### spurious
+## spurious
 
 #### English:
   - not being what it purports to be; false or fake.
@@ -382,10 +382,10 @@
 #### Chinese:
   - adj.伪造的, 假造的, 欺骗的
 
-### spurn
+## spurn
 
 #### English:
-### spurn
+## spurn
 
 #### English:
   - an act of spurning.
@@ -394,7 +394,7 @@
 #### Chinese:
   - v.弃绝
 
-### squalor
+## squalor
 
 #### English:
   - the state of being extremely dirty and unpleasant, especially as a result of poverty or neglect.
@@ -402,7 +402,7 @@
 #### Chinese:
   - n.肮脏, 悲惨, 贫穷
 
-### squander
+## squander
 
 #### English:
   - waste (something, especially money or time) in a reckless and foolish manner.
@@ -410,7 +410,7 @@
 #### Chinese:
   - v.浪费
 
-### stagnant
+## stagnant
 
 #### English:
   - (of a body of water or the atmosphere of a confined space) having no current or flow and often having an unpleasant smell as a consequence.
@@ -418,7 +418,7 @@
 #### Chinese:
   - adj.停滞的, 迟钝的
 
-### stanza
+## stanza
 
 #### English:
   - a group of lines forming the basic recurring metrical unit in a poem; a verse.
@@ -426,7 +426,7 @@
 #### Chinese:
   - n.节, 演出期, 比赛中的盘
 
-### static
+## static
 
 #### English:
   - crackling or hissing noises on a telephone, radio, or other telecommunication system.

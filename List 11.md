@@ -1,4 +1,4 @@
-### novice
+## novice
 
 #### English:
   - a person new to and inexperienced in a job or situation.
@@ -7,7 +7,7 @@
 #### Chinese:
   - n.新手, 初学者
 
-### nuance
+## nuance
 
 #### English:
   - a subtle difference in or shade of meaning, expression, or sound.
@@ -16,7 +16,7 @@
 #### Chinese:
   - n.细微差别
 
-### nullify
+## nullify
 
 #### English:
   - make legally null and void; invalidate.
@@ -24,7 +24,7 @@
 #### Chinese:
   - v.无效
 
-### nurture
+## nurture
 
 #### English:
   - the action or process of nurturing someone or something.
@@ -34,7 +34,7 @@
   - n.养育, 教育, 教养, 营养品
   - vt.养育, 给与营养物, 教养
 
-### obdurate
+## obdurate
 
 #### English:
   - stubbornly refusing to change one's opinion or course of action.
@@ -42,7 +42,7 @@
 #### Chinese:
   - adj.冷酷无情的,顽固的,执拗的
 
-### objective
+## objective
 
 #### English:
   - a thing aimed at or sought; a goal.
@@ -55,7 +55,7 @@
   - n.目标,目的, (显微镜的)(接)物镜, [语法]宾格
   - adj.客观的, [语法]宾格的
 
-### obliterate
+## obliterate
 
 #### English:
   - destroy utterly; wipe out.
@@ -63,7 +63,7 @@
 #### Chinese:
   - vt.涂去, 删除, 使湮没
 
-### oblivion
+## oblivion
 
 #### English:
   - the state of being unaware or unconscious of what is happening around one.
@@ -72,7 +72,7 @@
 #### Chinese:
   - n.遗忘, 湮没, 赦免
 
-### oblivious
+## oblivious
 
 #### English:
   - not aware of or concerned about what is happening around one.
@@ -80,7 +80,7 @@
 #### Chinese:
   - adj.遗忘的, 忘却的, 健忘的
 
-### obscure
+## obscure
 
 #### English:
   - not discovered or known about; uncertain.
@@ -91,7 +91,7 @@
   - adj.暗的, 朦胧的, 模糊的, 晦涩的
   - vt.使暗, 使不明显
 
-### obsequious
+## obsequious
 
 #### English:
   - obedient or attentive to an excessive or servile degree.
@@ -99,7 +99,7 @@
 #### Chinese:
   - adj.谄媚的, 奉承的, 拍马屁的
 
-### obsessive
+## obsessive
 
 #### English:
   - of the nature of an obsession.
@@ -108,7 +108,7 @@
 #### Chinese:
   - adj.强迫性的, 分神的
 
-### obstinate
+## obstinate
 
 #### English:
   - stubbornly refusing to change one's opinion or chosen course of action, despite attempts to persuade one to do so.
@@ -116,7 +116,7 @@
 #### Chinese:
   - adj.倔强的, 顽固的
 
-### obtuse
+## obtuse
 
 #### English:
   - annoyingly insensitive or slow to understand.
@@ -126,7 +126,7 @@
 #### Chinese:
   - adj.钝的, 圆头的, 愚蠢的, 迟钝的
 
-### ominous
+## ominous
 
 #### English:
   - giving the worrying impression that something bad is going to happen; threateningly inauspicious.
@@ -134,7 +134,7 @@
 #### Chinese:
   - adj.预兆的, 恶兆的, 不吉利的
 
-### opaque
+## opaque
 
 #### English:
   - an opaque thing.
@@ -144,7 +144,7 @@
   - n.不透明物
   - adj.不透明的 , 不传热的 , 迟钝的
 
-### opportunist
+## opportunist
 
 #### English:
   - opportunistic.
@@ -153,7 +153,7 @@
 #### Chinese:
   - n.机会主义者, 投机取巧者
 
-### optimist
+## optimist
 
 #### English:
   - a person who tends to be hopeful and confident about the future or the success of something.
@@ -162,7 +162,7 @@
 #### Chinese:
   - n.乐天派, 乐观者
 
-### optional
+## optional
 
 #### English:
   - available to be chosen but not obligatory.
@@ -170,7 +170,7 @@
 #### Chinese:
   - adj.可选择的, 随意的
 
-### opulence
+## opulence
 
 #### English:
   - great wealth or luxuriousness.
@@ -178,7 +178,7 @@
 #### Chinese:
   - n.富裕
 
-### orator
+## orator
 
 #### English:
   - a public speaker, especially one who is eloquent or skilled.
@@ -186,7 +186,7 @@
 #### Chinese:
   - n.演说者, 演讲者, 雄辩家, [律]原告, 请愿人
 
-### ornate
+## ornate
 
 #### English:
   - elaborately or highly decorated.
@@ -194,7 +194,7 @@
 #### Chinese:
   - adj.装饰的, 华丽的, (文体)绚丽的
 
-### ostentatious
+## ostentatious
 
 #### English:
   - characterized by pretentious or showy display; designed to impress.
@@ -202,7 +202,7 @@
 #### Chinese:
   - adj.装饰表面的, 卖弄的
 
-### pacifist
+## pacifist
 
 #### English:
   - a person who believes that war and violence are unjustifiable.
@@ -211,7 +211,7 @@
 #### Chinese:
   - n.和平主义者
 
-### painstaking
+## painstaking
 
 #### English:
   - done with or employing great care and thoroughness.
@@ -220,7 +220,7 @@
   - n.苦干, 辛苦
   - adj.辛苦的, 辛勤的, 艰苦的
 
-### paltry
+## paltry
 
 #### English:
   - (of an amount) very small or meagre.
@@ -228,7 +228,7 @@
 #### Chinese:
   - adj.不足取的,无价值的,琐碎的,下贱的
 
-### paradigm
+## paradigm
 
 #### English:
   - a typical example or pattern of something; a pattern or model.
@@ -238,7 +238,7 @@
 #### Chinese:
   - n.范例
 
-### paradox
+## paradox
 
 #### English:
   - a seemingly absurd or contradictory statement or proposition which when investigated may prove to be well founded or true.
@@ -246,7 +246,7 @@
 #### Chinese:
   - n.似非而是的论点,自相矛盾的话
 
-### paragon
+## paragon
 
 #### English:
   - a person or thing regarded as a perfect example of a particular quality.
@@ -255,7 +255,7 @@
   - n.模范
   - parochial adj.教区,地方范围的,狭小的
 
-### parody
+## parody
 
 #### English:
   - an imitation of the style of a particular writer, artist, or genre with deliberate exaggeration for comic effect.
@@ -265,7 +265,7 @@
   - n.模仿滑稽作品, 拙劣的模仿
   - vt.拙劣模仿
 
-### parry
+## parry
 
 #### English:
   - ward off (a weapon or attack) with a countermove.
@@ -274,7 +274,7 @@
 #### Chinese:
   - n.躲避
 
-### parsimony
+## parsimony
 
 #### English:
   - extreme unwillingness to spend money or use resources.
@@ -282,7 +282,7 @@
 #### Chinese:
   - n.过度节俭, 吝啬
 
-### partial
+## partial
 
 #### English:
   - existing only in part; incomplete.
@@ -294,7 +294,7 @@
   - adj.部分的, 局部的, 偏袒的, 偏爱的
   - n.泛音
 
-### partisan
+## partisan
 
 #### English:
   - a strong supporter of a party, cause, or person.
@@ -304,7 +304,7 @@
 #### Chinese:
   - n.游击队
 
-### passive
+## passive
 
 #### English:
   - a passive form of a verb.
@@ -316,7 +316,7 @@
 #### Chinese:
   - adj.被动的
 
-### paucity
+## paucity
 
 #### English:
   - the presence of something in only small or insufficient quantities or amounts.
@@ -324,7 +324,7 @@
 #### Chinese:
   - n.极小量
 
-### pedantic
+## pedantic
 
 #### English:
   - excessively concerned with minor details or rules; overscrupulous.
@@ -332,7 +332,7 @@
 #### Chinese:
   - adj.书生气的
 
-### penchant
+## penchant
 
 #### English:
   - a strong or habitual liking for something or tendency to do something.
@@ -340,7 +340,7 @@
 #### Chinese:
   - n.(强烈的)倾向, 趣味
 
-### pensive
+## pensive
 
 #### English:
   - engaged in, involving, or reflecting deep or serious thought.
@@ -348,7 +348,7 @@
 #### Chinese:
   - adj.沉思的
 
-### perceptive
+## perceptive
 
 #### English:
   - having or showing sensitive insight.
@@ -356,7 +356,7 @@
 #### Chinese:
   - adj.有理解的
 
-### perfunctory
+## perfunctory
 
 #### English:
   - (of an action) carried out without real interest, feeling, or effort.
@@ -364,7 +364,7 @@
 #### Chinese:
   - adj.马马虎虎的
 
-### peripheral
+## peripheral
 
 #### English:
   - a peripheral device.
@@ -375,7 +375,7 @@
   - adj.外围的
   - n.外围设备
 
-### perjury
+## perjury
 
 #### English:
   - the offence of wilfully telling an untruth or making a misrepresentation under oath.
@@ -383,7 +383,7 @@
 #### Chinese:
   - n.伪誓, 伪证
 
-### pernicious
+## pernicious
 
 #### English:
   - having a harmful effect, especially in a gradual or subtle way.
@@ -391,7 +391,7 @@
 #### Chinese:
   - adj.有害的
 
-### perpetuate
+## perpetuate
 
 #### English:
   - make (something) continue indefinitely.
@@ -399,7 +399,7 @@
 #### Chinese:
   - vt.使永存, 使不朽
 
-### perturb
+## perturb
 
 #### English:
   - make (someone) anxious or unsettled.
@@ -408,7 +408,7 @@
 #### Chinese:
   - v.感到不安
 
-### pervasive
+## pervasive
 
 #### English:
   - (especially of an unwelcome influence or physical effect) spreading widely throughout an area or a group of people.
@@ -416,7 +416,7 @@
 #### Chinese:
   - adj.普遍深入的
 
-### pessimism
+## pessimism
 
 #### English:
   - a tendency to see the worst aspect of things or believe that the worst will happen.
@@ -425,7 +425,7 @@
 #### Chinese:
   - n.悲观, 悲观主义
 
-### petty
+## petty
 
 #### English:
   - of little importance; trivial.
@@ -434,7 +434,7 @@
 #### Chinese:
   - adj.小的, 不重要的, 小规模的, 小型的, 细微的, 小器的, 卑鄙的
 
-### petulant
+## petulant
 
 #### English:
   - (of a person or their manner) childishly sulky or bad-tempered.

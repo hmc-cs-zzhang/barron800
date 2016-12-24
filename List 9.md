@@ -1,4 +1,4 @@
-### inherent
+## inherent
 
 #### English:
   - existing in something as a permanent, essential, or characteristic attribute.
@@ -6,7 +6,7 @@
 #### Chinese:
   - adj.固有的, 内在的, 与生俱来的
 
-### inimical
+## inimical
 
 #### English:
   - tending to obstruct or harm.
@@ -14,7 +14,7 @@
 #### Chinese:
   - adj.敌意的
 
-### initiate
+## initiate
 
 #### English:
   - a person who has been initiated into an organization or activity.
@@ -25,7 +25,7 @@
   - vt.开始, 发动, 传授
   - v.开始, 发起
 
-### injurious
+## injurious
 
 #### English:
   - causing or likely to cause damage or harm.
@@ -33,7 +33,7 @@
 #### Chinese:
   - adj.有害的
 
-### innate
+## innate
 
 #### English:
   - inborn; natural.
@@ -41,7 +41,7 @@
 #### Chinese:
   - adj.先天的, 天生的
 
-### innocuous
+## innocuous
 
 #### English:
   - not harmful or offensive.
@@ -49,7 +49,7 @@
 #### Chinese:
   - adj.无害的, 无毒的, 无伤大雅的, 不得罪人的
 
-### innovation
+## innovation
 
 #### English:
   - the action or process of innovating.
@@ -57,7 +57,7 @@
 #### Chinese:
   - n.改革, 创新
 
-### inopportune
+## inopportune
 
 #### English:
   - occurring at an inconvenient or inappropriate time.
@@ -65,7 +65,7 @@
 #### Chinese:
   - adj.不合适的
 
-### insatiable
+## insatiable
 
 #### English:
   - (of an appetite or desire) impossible to satisfy.
@@ -73,7 +73,7 @@
 #### Chinese:
   - adj.不知足的, 贪求无厌的
 
-### insightful
+## insightful
 
 #### English:
   - having or showing an accurate and deep understanding; perceptive.
@@ -81,7 +81,7 @@
 #### Chinese:
   - adj.富有洞察力的,有深刻见解的
 
-### insinuate
+## insinuate
 
 #### English:
   - suggest or hint (something bad) in an indirect and unpleasant way.
@@ -91,7 +91,7 @@
 #### Chinese:
   - vt.使逐步而巧妙地取得,使迂回地潜入(或挤入),使慢慢滋长, 含沙射影地说
 
-### insipid
+## insipid
 
 #### English:
   - lacking flavour; weak or tasteless.
@@ -99,7 +99,7 @@
 #### Chinese:
   - adj.没有味道的, 平淡的
 
-### insolvent
+## insolvent
 
 #### English:
   - an insolvent person.
@@ -108,7 +108,7 @@
 #### Chinese:
   - adj.破产的
 
-### instigate
+## instigate
 
 #### English:
   - bring about or initiate (an action or event).
@@ -116,7 +116,7 @@
 #### Chinese:
   - v.鼓动
 
-### insularity
+## insularity
 
 #### English:
   - ignorance of or lack of interest in cultures, ideas, or peoples outside one's own experience.
@@ -125,7 +125,7 @@
 #### Chinese:
   - n.岛国性质 (或状态),岛屿生活状况,与外界隔绝的生活状况, (思想, 观点等的)偏狭,性僵化
 
-### insuperable
+## insuperable
 
 #### English:
   - (of a difficulty or obstacle) impossible to overcome.
@@ -133,7 +133,7 @@
 #### Chinese:
   - adj.不能制胜的,不能克服的
 
-### insurgent
+## insurgent
 
 #### English:
   - rising in active revolt.
@@ -142,7 +142,7 @@
 #### Chinese:
   - adj.起义的
 
-### intangible
+## intangible
 
 #### English:
   - unable to be touched; not having physical presence.
@@ -151,7 +151,7 @@
 #### Chinese:
   - adj.难以明了的, 无形的
 
-### integral
+## integral
 
 #### English:
   - necessary to make a whole complete; essential or fundamental.
@@ -162,7 +162,7 @@
   - adj.完整的,整体的,[数学]积分的,构成整体所要的
   - n.[数学] 积分, 完整, 部分
 
-### integrity
+## integrity
 
 #### English:
   - the quality of being honest and having strong moral principles.
@@ -171,7 +171,7 @@
 #### Chinese:
   - n.正直, 诚实, 完整, 完全, 完整性
 
-### intermittent
+## intermittent
 
 #### English:
   - occurring at irregular intervals; not continuous or steady.
@@ -179,7 +179,7 @@
 #### Chinese:
   - adj.间歇的, 断断续续的
 
-### intervene
+## intervene
 
 #### English:
   - take part in something so as to prevent or alter a result or course of events.
@@ -189,7 +189,7 @@
   - vi.干涉,干预,插入,介入,(指时间)介于其间
   - v.干涉
 
-### intimidate
+## intimidate
 
 #### English:
   - frighten or overawe (someone), especially in order to make them do what one wants.
@@ -197,7 +197,7 @@
 #### Chinese:
   - v.胁迫
 
-### intractable
+## intractable
 
 #### English:
   - hard to control or deal with.
@@ -205,7 +205,7 @@
 #### Chinese:
   - adj.难处理的
 
-### intransigence
+## intransigence
 
 #### English:
   - refusal to change one's views or to agree about something.
@@ -213,7 +213,7 @@
 #### Chinese:
   - n.不妥协态度,不让步,不调和
 
-### intrepid
+## intrepid
 
 #### English:
   - fearless; adventurous (often used for rhetorical or humorous effect).
@@ -221,7 +221,7 @@
 #### Chinese:
   - adj.无畏的, 勇猛的
 
-### intricate
+## intricate
 
 #### English:
   - very complicated or detailed.
@@ -229,7 +229,7 @@
 #### Chinese:
   - adj.复杂的, 错综的, 难以理解的
 
-### intrinsic
+## intrinsic
 
 #### English:
   - belonging naturally; essential.
@@ -237,7 +237,7 @@
 #### Chinese:
   - adj.(指价值、性质)固有的, 内在的, 本质的
 
-### introspective
+## introspective
 
 #### English:
   - characterized by or given to introspection.
@@ -245,7 +245,7 @@
 #### Chinese:
   - adj.(好)内省的, (好)自省的, (好)反省的
 
-### intuition
+## intuition
 
 #### English:
   - the ability to understand something instinctively, without the need for conscious reasoning.
@@ -253,7 +253,7 @@
 #### Chinese:
   - n.直觉, 直觉的知识
 
-### inundate
+## inundate
 
 #### English:
   - overwhelm (someone) with things or people to be dealt with.
@@ -262,7 +262,7 @@
 #### Chinese:
   - v.淹没
 
-### invert
+## invert
 
 #### English:
   - an arch constructed in an upside-down position to provide lateral support, e.g. in a tunnel.
@@ -275,7 +275,7 @@
   - vt.使颠倒, 使转化
   - n.颠倒的事物
 
-### irascible
+## irascible
 
 #### English:
   - having or showing a tendency to be easily angered.
@@ -283,7 +283,7 @@
 #### Chinese:
   - adj.易怒的, 暴躁的
 
-### ironic
+## ironic
 
 #### English:
   - using or characterized by irony.
@@ -291,7 +291,7 @@
 #### Chinese:
   - adj.说反话的, 讽刺的
 
-### irrational
+## irrational
 
 #### English:
   - an irrational number or quantity; a surd.
@@ -301,7 +301,7 @@
 #### Chinese:
   - adj.无理性的, 失去理性的
 
-### irrelevant
+## irrelevant
 
 #### English:
   - not connected with or relevant to something.
@@ -310,7 +310,7 @@
   - adj.不相关的
   - adj.不相关的,不切题的
 
-### irreproachable
+## irreproachable
 
 #### English:
   - beyond criticism; faultless.
@@ -318,7 +318,7 @@
 #### Chinese:
   - adj.无可指责的,不可非难的,无缺点的,无过失的
 
-### irresolute
+## irresolute
 
 #### English:
   - showing or feeling hesitancy; uncertain.
@@ -326,7 +326,7 @@
 #### Chinese:
   - adj.犹豫不决的
 
-### irreverence
+## irreverence
 
 #### English:
   - a lack of respect for people or things that are generally taken seriously.
@@ -334,7 +334,7 @@
 #### Chinese:
   - adj.不尊敬的
 
-### jargon
+## jargon
 
 #### English:
   - a translucent, colourless, or smoky gem variety of zircon.
@@ -343,7 +343,7 @@
 #### Chinese:
   - n.行话
 
-### jocular
+## jocular
 
 #### English:
   - fond of or characterized by joking; humorous or playful.
@@ -351,7 +351,7 @@
 #### Chinese:
   - adj.诙谐的
 
-### judicious
+## judicious
 
 #### English:
   - having, showing, or done with good judgement or sense.
@@ -359,7 +359,7 @@
 #### Chinese:
   - adj.明智的
 
-### justification
+## justification
 
 #### English:
   - the action of showing something to be right or reasonable.
@@ -369,7 +369,7 @@
 #### Chinese:
   - n.认为有理,认为正当,理由,辩护,释罪
 
-### kindle
+## kindle
 
 #### English:
   - a litter of kittens.
@@ -380,7 +380,7 @@
   - vt.点燃, 使着火, 引起, 照亮
   - vi.着火, 煽动, 激起, 发亮
 
-### labyrinth
+## labyrinth
 
 #### English:
   - a complicated irregular network of passages or paths in which it is difficult to find one's way; a maze.
@@ -389,7 +389,7 @@
 #### Chinese:
   - n.迷路, 迷宫, 难解的事物
 
-### laconic
+## laconic
 
 #### English:
   - (of a person, speech, or style of writing) using very few words.
@@ -397,7 +397,7 @@
 #### Chinese:
   - adj.(用词)简洁的, 简明的
 
-### lament
+## lament
 
 #### English:
   - express passionate grief about.
@@ -410,7 +410,7 @@
   - vt.哀悼
   - vi.悔恨, 悲叹
 
-### lassitude
+## lassitude
 
 #### English:
   - a state of physical or mental weariness; lack of energy.
@@ -418,7 +418,7 @@
 #### Chinese:
   - n.疲乏
 
-### laud
+## laud
 
 #### English:
   - praise (a person or their achievements) highly.
@@ -428,7 +428,7 @@
   - n.赞美, 称赞, 颂歌
   - vt.赞美, 称赞
 
-### lavish
+## lavish
 
 #### English:
   - bestow something in generous or extravagant quantities on.
